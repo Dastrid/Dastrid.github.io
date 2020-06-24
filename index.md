@@ -10,3 +10,8 @@ Als Agent 007, eine von Ian Flemming erfundene Figur, arbeitet James Bond als Ge
 * stellt sich immer mit "Mein Name ist Bond, James Bond" vor
 * trinkt seinen Martini geschüttelt, nicht gerührt
 * trägt in fast allen Situation zeitlose Anzüge
+
+James Bond alias Sean Connery sagte in "Diamentenfieber":
+> Ein bezaubernder Hauch von Nichts, den Sie da beinahe anhaben. Gefällt mir.
+Daniel Craig zeigte sich in "Casino Royale" eher als fragwürdiger "007", weil er auf die Frage "Hätten Sie Ihren Wodka Martini gerne geschüttelt oder gerührt?" einfach antwortete:
+> Sehe ich aus wie jemand, den das interessiert?
