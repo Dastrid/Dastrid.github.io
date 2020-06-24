@@ -12,6 +12,10 @@ Als Agent 007, eine von Ian Flemming erfundene Figur, arbeitet James Bond als Ge
 * trägt in fast allen Situation zeitlose Anzüge
 
 James Bond alias Sean Connery sagte in "Diamentenfieber":
-> Ein bezaubernder Hauch von Nichts, den Sie da beinahe anhaben. Gefällt mir.
+>Ein bezaubernder Hauch von Nichts, den Sie da beinahe anhaben. Gefällt mir.
+
 Daniel Craig zeigte sich in "Casino Royale" eher als fragwürdiger "007", weil er auf die Frage "Hätten Sie Ihren Wodka Martini gerne geschüttelt oder gerührt?" einfach antwortete:
-> Sehe ich aus wie jemand, den das interessiert?
+>Sehe ich aus wie jemand, den das interessiert?  
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sean_Connery_as_James_Bond_%281971%2C_cropped%29.jpg/298px-Sean_Connery_as_James_Bond_%281971%2C_cropped%29.jpg" />
